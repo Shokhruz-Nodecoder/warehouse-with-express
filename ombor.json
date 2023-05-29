@@ -1,0 +1,32 @@
+[
+  {
+    "product": "fanta",
+    "volume": "1000",
+    "time": "2023-05-03T17:36:17.529Z"
+  },
+  {
+    "product": "non",
+    "volume": "1200",
+    "time": "2023-05-03T17:36:29.910Z"
+  },
+  {
+    "product": "pepsi",
+    "volume": "600",
+    "time": "2023-05-03T17:36:38.504Z"
+  },
+  {
+    "product": "suv",
+    "volume": "1500",
+    "time": "2023-05-03T17:50:54.414Z"
+  },
+  {
+    "product": "bread",
+    "volume": "24000",
+    "time": "2023-05-26T22:16:34.157Z"
+  },
+  {
+    "product": "fish",
+    "volume": "16000",
+    "time": "2023-05-26T22:17:21.044Z"
+  }
+]
